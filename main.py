@@ -1,4 +1,4 @@
-operation = input('Operation \(+, -, *, /\): ')
+operation = input('Operation (+, -, *, /): ')
 match operation:
     case '+':
         num1 = float(input('First addend: '))
